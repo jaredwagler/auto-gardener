@@ -1,7 +1,7 @@
 // Project:		IoT Auto-Gardener
 // Program:		sensorcontrol.ino
 // Purpose:		Establish a serial connection with the Raspberry Pi and send sensor values to it
-// Author(s):	Jared Wagler, Sean McGuffey, Mife Atewogbola, Mouhammed Diagne
+// Author(s):		Jared Wagler, Sean McGuffey, Mife Atewogbola, Mouhammed Diagne
 
 //Definitions
 int humidPin = A0;
