@@ -1,7 +1,7 @@
-# Project:		IoT Auto-Gardener
-# Program:		sensorread.py
-# Purpose:		Establish a serial connection with the Arduino, receive values from it, and process that information
-# Author(s):	Jared Wagler, Sean McGuffey, Mife Atewogbola, Mouhammed Diagne
+# Project:		    IoT Auto-Gardener
+# Program:		    sensorread.py
+# Purpose:	    	Establish a serial connection with the Arduino, receive values from it, and process that information
+# Author(s):        Jared Wagler, Sean McGuffey, Mife Atewogbola, Mouhammed Diagne
 
 # Import packages needed for connection
 import serial
