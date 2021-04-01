@@ -3,13 +3,13 @@
 // Purpose:		Establish a serial connection with the Raspberry Pi and send sensor values to it
 // Author(s):		Jared Wagler, Sean McGuffey, Mife Atewogbola, Mouhammed Diagne
 
+// Digital Sensors
 #include "DHT.h"
 #define DHTPIN 3
 #define DHTTYPE DHT22
 
-//Definitions
-int humidPin = A0;
-int tempPin = A1;
+//Analog Sensors
+int moistPin = A5;
 
 //Establish Serial Connection
 void setup() {
